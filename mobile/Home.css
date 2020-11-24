@@ -1,0 +1,17 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 20px;
+      max-width: 400px;
+      
+      
+    }
+    .Login2 {
+      padding: 0 60px;
+      max-width: 300px;
+    }
+    .Login4 {
+      padding: 60px 0;
+      margin: 0 auto;
+      max-width: 320px;
+    }
+}
